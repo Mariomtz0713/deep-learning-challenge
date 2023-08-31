@@ -17,7 +17,7 @@ Questions
     - Original attempt - accuracy: 72.77 % with 2 layers [8, 5] neurons respectively
     - 1st optimization - accuracy: 72.72 % with 3 layers [5, 10, 20] neurons respectively
     - 2nd optimization - accuracy: 72.99 % with 3 layers [5, 10, 20] neurons respectively 
-    - 3rd optimization - accuracy: 73.06 % with 3 layers [4, 6, 8] neurons respectively
+    - 3rd optimization - accuracy: 73.06 % with 3 layers [8, 16, 32] neurons respectively
 - I increased the number of hidden layers due to the size and complexity of the dataset sitting around 34k rows. Neuron values were tinkered around with until an optimial number was found.
 2. Were you able to achieve the target model performance?
 - I was not able to achieve the target model performance after multiple attempts.
